@@ -9,4 +9,4 @@
 	url = https://github.com/puppetlabs/puppetlabs-concat.git
 [submodule "modules/nginx"]
 	path = modules/nginx
-	url = https://github.com/jfryman/puppet-nginx.git
+	url = https://github.com/jbussdieker/puppet-nginx.git
